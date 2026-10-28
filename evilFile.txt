@@ -1,6 +1,10 @@
 Very evil
+<<<<<<< HEAD
 yes
 
 oh yeah
+=======
+the goofy files
+>>>>>>> bigBeutifullBill
 
 monkey
